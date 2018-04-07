@@ -63,10 +63,11 @@
 
 	});
 
+	// instagram
 	var feed = new Instafeed({
 	get: 'user',
 	userId: '6829402298',
-	accessToken: '6829402298.1677ed0.52bddc246a68452a9963a1714dd8e269',
+	accessToken: '6829402298.0293249.81d4d3da870243ee88ba1e7ebd2decc1',
 	});
 	feed.run();
 })(jQuery);
