@@ -10,6 +10,11 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+	.instagram-feed img {
+		padding: 0.15em;
+		border-radius: 10%;
+	}
+
 /* Reset */
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
@@ -2955,7 +2960,7 @@
 		}
 
 		#banner h1 {
-			font-size: 3.5em;
+			font-size: 4em;
 			font-weight: 400;
 			color: #fff;
 			line-height: 1em;
@@ -3122,7 +3127,7 @@
 
 	#footer {
 		padding: 6em 0;
-		background: #a4a4a9;
+		background: #554738;
 		color: #fff;
 		text-align: center;
 	}
